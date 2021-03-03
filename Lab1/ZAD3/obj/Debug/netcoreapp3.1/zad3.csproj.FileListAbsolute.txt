@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\vjezba1\ZAD3\bin\Debug\netcoreapp3.1\zad3.exe
+C:\Users\User\source\repos\vjezba1\ZAD3\bin\Debug\netcoreapp3.1\zad3.deps.json
+C:\Users\User\source\repos\vjezba1\ZAD3\bin\Debug\netcoreapp3.1\zad3.runtimeconfig.json
+C:\Users\User\source\repos\vjezba1\ZAD3\bin\Debug\netcoreapp3.1\zad3.runtimeconfig.dev.json
+C:\Users\User\source\repos\vjezba1\ZAD3\bin\Debug\netcoreapp3.1\zad3.dll
+C:\Users\User\source\repos\vjezba1\ZAD3\bin\Debug\netcoreapp3.1\zad3.pdb
+C:\Users\User\source\repos\vjezba1\ZAD3\obj\Debug\netcoreapp3.1\zad3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\vjezba1\ZAD3\obj\Debug\netcoreapp3.1\zad3.AssemblyInfo.cs
+C:\Users\User\source\repos\vjezba1\ZAD3\obj\Debug\netcoreapp3.1\zad3.dll
+C:\Users\User\source\repos\vjezba1\ZAD3\obj\Debug\netcoreapp3.1\zad3.pdb
+C:\Users\User\source\repos\vjezba1\ZAD3\obj\Debug\netcoreapp3.1\zad3.csprojAssemblyReference.cache

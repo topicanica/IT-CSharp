@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\vjezba1\vjezba1\bin\Debug\netcoreapp3.1\zad1i2.exe
+C:\Users\User\source\repos\vjezba1\vjezba1\bin\Debug\netcoreapp3.1\zad1i2.deps.json
+C:\Users\User\source\repos\vjezba1\vjezba1\bin\Debug\netcoreapp3.1\zad1i2.runtimeconfig.json
+C:\Users\User\source\repos\vjezba1\vjezba1\bin\Debug\netcoreapp3.1\zad1i2.runtimeconfig.dev.json
+C:\Users\User\source\repos\vjezba1\vjezba1\bin\Debug\netcoreapp3.1\zad1i2.dll
+C:\Users\User\source\repos\vjezba1\vjezba1\bin\Debug\netcoreapp3.1\zad1i2.pdb
+C:\Users\User\source\repos\vjezba1\vjezba1\obj\Debug\netcoreapp3.1\zad1i2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\vjezba1\vjezba1\obj\Debug\netcoreapp3.1\zad1i2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\vjezba1\vjezba1\obj\Debug\netcoreapp3.1\zad1i2.AssemblyInfo.cs
+C:\Users\User\source\repos\vjezba1\vjezba1\obj\Debug\netcoreapp3.1\zad1i2.dll
+C:\Users\User\source\repos\vjezba1\vjezba1\obj\Debug\netcoreapp3.1\zad1i2.pdb
